@@ -63,6 +63,16 @@ namespace DancingCorn.Properties {
         /// <summary>
         ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
         /// </summary>
+        internal static System.Drawing.Bitmap compressed2 {
+            get {
+                object obj = ResourceManager.GetObject("compressed2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+        /// </summary>
         internal static System.Drawing.Bitmap compressed3 {
             get {
                 object obj = ResourceManager.GetObject("compressed3", resourceCulture);
